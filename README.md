@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LodewykRoux
-- 👀 I’m interested in Web, Api and Mobile development
-- 🌱 I’m currently learning Flutter, React and EF CORE
+- 👀 I’m interested in Api and Mobile development
+- 🌱 I’m currently learning Flutter and EF CORE
 - 💞️ I’m looking to collaborate on my own for now
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lodewyk-roux-a6b735190/
 
